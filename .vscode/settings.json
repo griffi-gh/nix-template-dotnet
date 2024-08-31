@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "dotnet.sln",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+}
